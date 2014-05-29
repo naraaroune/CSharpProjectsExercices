@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NURL", "NURL\NURL.csproj", "{7190E58D-8F5D-414B-A5F0-01EA73F47B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNURL", "TestNURL\TestNURL.csproj", "{B6886D89-3540-4511-A7E6-F6505B7ADC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7190E58D-8F5D-414B-A5F0-01EA73F47B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7190E58D-8F5D-414B-A5F0-01EA73F47B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7190E58D-8F5D-414B-A5F0-01EA73F47B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7190E58D-8F5D-414B-A5F0-01EA73F47B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6886D89-3540-4511-A7E6-F6505B7ADC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6886D89-3540-4511-A7E6-F6505B7ADC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6886D89-3540-4511-A7E6-F6505B7ADC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6886D89-3540-4511-A7E6-F6505B7ADC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
